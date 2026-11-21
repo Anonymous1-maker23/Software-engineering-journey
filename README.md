@@ -1,2 +1,2 @@
 # Software-engineering-journey
-My Software Engineering learning journey, projects and practical exercises.
+A collection of my Python practice, coding exercises, programming challenges, and beginner software projects.
